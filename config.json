@@ -1,15 +1,15 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
+    "ownerNumber": ["6281586087102@s.whatsapp.net","6289653849036@s.whatsapp.net"],
+    "ownerName": "Jysaaa",
+    "instagram" : "https://instagram.com/arya.ftrhmn01",
+    "gcwa" : "-",
+    "botName": "J-Bot",
     "footer": "2023 © api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
-    "BotKey": "your key",
-    "OpenAIKey": "your openai key",
+    "BotKey": "osUeYQaIkFdUbZQ",
+    "OpenAIKey": "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",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_ai_japri": false,
     "auto_ai_grup": false,
@@ -27,7 +27,7 @@
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
-        "prem": 1000,
+        "prem": 10000,
         "user": 15
     }
 }
