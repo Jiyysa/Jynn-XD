@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6281586087102@s.whatsapp.net","6289653849036@s.whatsapp.net"],
+    "ownerName": "Jysa",
+    "instagram" : "https://instagram.com/arya.ftrhmn01",
+    "gcwa" : "-",
+    "botName": "Jysa Botz",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "osUeYQaIkFdUbZQ",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 10000,
+        "user": 15
+    }
+}
